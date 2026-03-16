@@ -10,7 +10,7 @@ DMG: https://drive.google.com/file/d/1Sl76fmhbaDkh4sPDCglfHRVznBH0qKJS/view?usp=
 ## Features
 
 - **Real-time tuning via microphone**
-  - Shows detected **note**, **octave**, and **frequency (Hz)**
+  - Shows detected **note**, **octave** and **frequency (Hz)**
   - Visual **cents meter** with in-tune / flat / sharp feedback
   - Holds the last stable reading briefly to reduce flicker in quiet moments
 
