@@ -2,7 +2,7 @@
 
 Chordio is a lightweight desktop **tuner + metronome** app designed for quick practice sessions.
 
-![Chordio](Chordio.png)
+![Chordio](ChordioApp.png)
 
 DMG: https://drive.google.com/file/d/1Sl76fmhbaDkh4sPDCglfHRVznBH0qKJS/view?usp=sharing
 
